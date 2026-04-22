@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Danil\\Desktop\\Work\\Projects\\PerAspera\\Per Aspera\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB1B907E-D5D8-D3A5-865E-32CE3190A7BF}|Assembly-CSharp.csproj|c:\\users\\danil\\desktop\\work\\projects\\peraspera\\per aspera\\assets\\scripts\\core\\shipselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB1B907E-D5D8-D3A5-865E-32CE3190A7BF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\shipselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB1B907E-D5D8-D3A5-865E-32CE3190A7BF}|Assembly-CSharp.csproj|C:\\Users\\Danil\\Desktop\\Work\\Projects\\PerAspera\\Per Aspera\\assets\\scripts\\core\\shipcatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB1B907E-D5D8-D3A5-865E-32CE3190A7BF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\shipcatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB1B907E-D5D8-D3A5-865E-32CE3190A7BF}|Assembly-CSharp.csproj|C:\\Users\\Danil\\Desktop\\Work\\Projects\\PerAspera\\Per Aspera\\assets\\scripts\\core\\di\\bootsrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB1B907E-D5D8-D3A5-865E-32CE3190A7BF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\di\\bootsrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB1B907E-D5D8-D3A5-865E-32CE3190A7BF}|Assembly-CSharp.csproj|C:\\Users\\Danil\\Desktop\\Work\\Projects\\PerAspera\\Per Aspera\\assets\\scripts\\scriptableobjects\\shipdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB1B907E-D5D8-D3A5-865E-32CE3190A7BF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scriptableobjects\\shipdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB1B907E-D5D8-D3A5-865E-32CE3190A7BF}|Assembly-CSharp.csproj|C:\\Users\\Danil\\Desktop\\Work\\Projects\\PerAspera\\Per Aspera\\assets\\scripts\\gameplay\\ship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB1B907E-D5D8-D3A5-865E-32CE3190A7BF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameplay\\ship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB1B907E-D5D8-D3A5-865E-32CE3190A7BF}|Assembly-CSharp.csproj|C:\\Users\\Danil\\Desktop\\Work\\Projects\\PerAspera\\Per Aspera\\assets\\scripts\\gameplay\\mover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB1B907E-D5D8-D3A5-865E-32CE3190A7BF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameplay\\mover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShipCatalog.cs",
+              "DocumentMoniker": "C:\\Users\\Danil\\Desktop\\Work\\Projects\\PerAspera\\Per Aspera\\Assets\\Scripts\\Core\\ShipCatalog.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\ShipCatalog.cs",
+              "ToolTip": "C:\\Users\\Danil\\Desktop\\Work\\Projects\\PerAspera\\Per Aspera\\Assets\\Scripts\\Core\\ShipCatalog.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Core\\ShipCatalog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T12:15:15.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShipSelector.cs",
+              "DocumentMoniker": "C:\\Users\\Danil\\Desktop\\Work\\Projects\\PerAspera\\Per Aspera\\Assets\\Scripts\\Core\\ShipSelector.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\ShipSelector.cs",
+              "ToolTip": "C:\\Users\\Danil\\Desktop\\Work\\Projects\\PerAspera\\Per Aspera\\Assets\\Scripts\\Core\\ShipSelector.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Core\\ShipSelector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T11:47:10.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ship.cs",
+              "DocumentMoniker": "C:\\Users\\Danil\\Desktop\\Work\\Projects\\PerAspera\\Per Aspera\\Assets\\Scripts\\Gameplay\\Ship.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Gameplay\\Ship.cs",
+              "ToolTip": "C:\\Users\\Danil\\Desktop\\Work\\Projects\\PerAspera\\Per Aspera\\Assets\\Scripts\\Gameplay\\Ship.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Gameplay\\Ship.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T11:16:22.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Mover.cs",
+              "DocumentMoniker": "C:\\Users\\Danil\\Desktop\\Work\\Projects\\PerAspera\\Per Aspera\\Assets\\Scripts\\Gameplay\\Mover.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Gameplay\\Mover.cs",
+              "ToolTip": "C:\\Users\\Danil\\Desktop\\Work\\Projects\\PerAspera\\Per Aspera\\Assets\\Scripts\\Gameplay\\Mover.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Gameplay\\Mover.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T05:42:53.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bootsrapper.cs",
+              "DocumentMoniker": "C:\\Users\\Danil\\Desktop\\Work\\Projects\\PerAspera\\Per Aspera\\Assets\\Scripts\\Core\\DI\\Bootsrapper.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\DI\\Bootsrapper.cs",
+              "ToolTip": "C:\\Users\\Danil\\Desktop\\Work\\Projects\\PerAspera\\Per Aspera\\Assets\\Scripts\\Core\\DI\\Bootsrapper.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Core\\DI\\Bootsrapper.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T05:31:23.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShipData.cs",
+              "DocumentMoniker": "C:\\Users\\Danil\\Desktop\\Work\\Projects\\PerAspera\\Per Aspera\\Assets\\Scripts\\ScriptableObjects\\ShipData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptableObjects\\ShipData.cs",
+              "ToolTip": "C:\\Users\\Danil\\Desktop\\Work\\Projects\\PerAspera\\Per Aspera\\Assets\\Scripts\\ScriptableObjects\\ShipData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScriptableObjects\\ShipData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T10:10:56.241Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
